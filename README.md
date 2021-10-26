@@ -1,7 +1,7 @@
 # ML-upscaled-AIA-193-
 Introduction
-Here, we applied the network WDSR-B (https://github.com/JiahuiYu/wdsr_ntire2018), a kind of artificial network for single image super-resolution, to  upsample the AIA 193 \AA\ images by a factor of 4. 
 
+Here, we applied the network WDSR-B (https://github.com/JiahuiYu/wdsr_ntire2018), a kind of artificial network for single image super-resolution, to  upsample the AIA 193 \AA\ images by a factor of 4. 
 The associated  article is in preparation.
 
 0.Requirements:
